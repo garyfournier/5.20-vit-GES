@@ -1,2 +1,3 @@
 # 5.20-vit-GES
 figuring this stuff out...
+we are gonna get this eventually
